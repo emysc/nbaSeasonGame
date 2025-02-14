@@ -1,0 +1,3198 @@
+{
+    "conferences": [
+        {
+            "name": "Leste",
+            "teams": [
+                {
+                    "name": "Cleveland Cavaliers",
+                    "coach": {
+                        "name": "Kenny Atkinson"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "31",
+                            "name": "Jarrett Allen",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 23
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Georges Niang",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 21
+                        },
+                        {
+                            "shirtNumber": "45",
+                            "name": "Donovan Mitchell",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Darius Garland",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Ty Jerome",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Evan Mobley",
+                            "position": "PF",
+                            "height": "6-11",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Sam Merrill",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Caris LeVert",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "32",
+                            "name": "Dean Wade",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Jaylon Tyson",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Craig Porter Jr.",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "35",
+                            "name": "Isaac Okoro",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Tristan Thompson",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Max Strus",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Boston Celtics",
+                    "coach": {
+                        "name": "Joe Mazzulla"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "11",
+                            "name": "Payton Pritchard",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 26
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Jayson Tatum",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 23
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Derrick White",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "40",
+                            "name": "Luke Kornet",
+                            "position": "C",
+                            "height": "7-2",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Jaylen Brown",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 19
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Jrue Holiday",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Sam Hauser",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "42",
+                            "name": "Al Horford",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "88",
+                            "name": "Neemias Queta",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "27",
+                            "name": "Jordan Walsh",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Kristaps Porziņģis",
+                            "position": "C",
+                            "height": "7-2",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "44",
+                            "name": "Jaden Springer",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 1
+                        },
+                        {
+                            "shirtNumber": "26",
+                            "name": "Xavier Tillman Sr.",
+                            "position": "C",
+                            "height": "6-8",
+                            "points": 1
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Drew Peterson",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "New York Knicks",
+                    "coach": {
+                        "name": "Tom Thibodeau"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "25",
+                            "name": "Mikal Bridges",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Jalen Brunson",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Josh Hart",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "OG Anunoby",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 26
+                        },
+                        {
+                            "shirtNumber": "32",
+                            "name": "Karl-Anthony Towns",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Cameron Payne",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Miles McBride",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Jericho Sims",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Precious Achiuwa",
+                            "position": "C",
+                            "height": "6-8",
+                            "points": 1
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Tyler Kolek",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "44",
+                            "name": "Landry Shamet",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 1
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Ariel Hukporti",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 1
+                        },
+                        {
+                            "shirtNumber": "37",
+                            "name": "Matt Ryan",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 1
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Jacob Toppin",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Indiana Pacers",
+                    "coach": {
+                        "name": "Rick Carlisle"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "43",
+                            "name": "Pascal Siakam",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Tyrese Haliburton",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 20
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "T.J. McConnell",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Jarace Walker",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Bennedict Mathurin",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Obi Toppin",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "33",
+                            "name": "Myles Turner",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "26",
+                            "name": "Ben Sheppard",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Andrew Nembhard",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "Johnny Furphy",
+                            "position": "SG",
+                            "height": "6-8",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Thomas Bryant",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Enrique Freeman",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "29",
+                            "name": "Quenton Jackson",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Aaron Nesmith",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Milwaukee Bucks",
+                    "coach": {
+                        "name": "Doc Rivers"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "12",
+                            "name": "Taurean Prince",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 25
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Brook Lopez",
+                            "position": "C",
+                            "height": "7-1",
+                            "points": 31
+                        },
+                        {
+                            "shirtNumber": "44",
+                            "name": "Andre Jackson Jr.",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Gary Trent Jr.",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "34",
+                            "name": "Giannis Antetokounmpo",
+                            "position": "PF",
+                            "height": "6-11",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Bobby Portis",
+                            "position": "PF",
+                            "height": "6-10",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "A.J. Green",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Damian Lillard",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Ryan Rollins",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Pat Connaughton",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Delon Wright",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "MarJon Beauchamp",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Khris Middleton",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Stanley Umude",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Miami Heat",
+                    "coach": {
+                        "name": "Erik Spoelstra"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "14",
+                            "name": "Tyler Herro",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 23
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Bam Adebayo",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Duncan Robinson",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Haywood Highsmith",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Terry Rozier",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Jaime Jaquez Jr.",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Nikola Jović",
+                            "position": "PF",
+                            "height": "6-10",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Kel'el Ware",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Pelle Larsson",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "18",
+                            "name": "Alec Burks",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Jimmy Butler",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "42",
+                            "name": "Kevin Love",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "Dru Smith",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "16",
+                            "name": "Keshad Johnson",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Detroit Pistons",
+                    "coach": {
+                        "name": "J.B. Bickerstaff"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "5",
+                            "name": "Malik Beasley",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 25
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Ron Holland",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "Tobias Harris",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Jalen Duren",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Cade Cunningham",
+                            "position": "PG",
+                            "height": "6-6",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Tim Hardaway Jr.",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "19",
+                            "name": "Simone Fontecchio",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "28",
+                            "name": "Isaiah Stewart",
+                            "position": "C",
+                            "height": "6-8",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "Marcus Sasser",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Jaden Ivey",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Ausar Thompson",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Paul Reed",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Wendell Moore Jr.",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Daniss Jenkins",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Orlando Magic",
+                    "coach": {
+                        "name": "Jamahl Mosley"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "3",
+                            "name": "Kentavious Caldwell-Pope",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 22
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Anthony Black",
+                            "position": "PG",
+                            "height": "6-7",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Tristan Da Silva",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "50",
+                            "name": "Cole Anthony",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Jonathan Isaac",
+                            "position": "PF",
+                            "height": "6-10",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Jett Howard",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "35",
+                            "name": "Goga Bitadze",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "34",
+                            "name": "Wendell Carter Jr.",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Jalen Suggs",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Caleb Houstan",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Franz Wagner",
+                            "position": "SF",
+                            "height": "6-10",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "21",
+                            "name": "Moritz Wagner",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Cory Joseph",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Gary Harris",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Atlanta Hawks",
+                    "coach": {
+                        "name": "Quin Snyder"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "11",
+                            "name": "Trae Young",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 23
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Dyson Daniels",
+                            "position": "SG",
+                            "height": "6-8",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Clint Capela",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Onyeka Okongwu",
+                            "position": "C",
+                            "height": "6-8",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Zaccharie Risacher",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Garrison Mathews",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "De'Andre Hunter",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Jalen Johnson",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "27",
+                            "name": "Vit Krejci",
+                            "position": "PG",
+                            "height": "6-8",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "David Roddy",
+                            "position": "PF",
+                            "height": "6-4",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Bogdan Bogdanović",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Keaton Wallace",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Larry Nance Jr.",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Dominick Barlow",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicago Bulls",
+                    "coach": {
+                        "name": "Billy Donovan"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "9",
+                            "name": "Nikola Vučević",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Matas Buzelis",
+                            "position": "SF",
+                            "height": "6-10",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Julian Phillips",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 19
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Josh Giddey",
+                            "position": "PG",
+                            "height": "6-8",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "Dalen Terry",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Jalen Smith",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Coby White",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "44",
+                            "name": "Patrick Williams",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Ayo Dosunmu",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Talen Horton-Tucker",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Lonzo Ball",
+                            "position": "PG",
+                            "height": "6-6",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Jevon Carter",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "32",
+                            "name": "E.J. Liddell",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "21",
+                            "name": "Adama Sanogo",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Philadelphia 76ers",
+                    "coach": {
+                        "name": "Nick Nurse"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "28",
+                            "name": "Guerschon Yabusele",
+                            "position": "C",
+                            "height": "6-8",
+                            "points": 27
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Kelly Oubre Jr.",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Tyrese Maxey",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Ricky Council IV",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Eric Gordon",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Adem Bona",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "16",
+                            "name": "Caleb Martin",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Paul George",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Kyle Lowry",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Reggie Jackson",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Andre Drummond",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "KJ Martin",
+                            "position": "PF",
+                            "height": "6-6",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Jared McCain",
+                            "position": "SG",
+                            "height": "6-2",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Jeff Dowtin",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Brooklyn Nets",
+                    "coach": {
+                        "name": "Jordi Fernández Torres"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "22",
+                            "name": "Jalen Wilson",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "45",
+                            "name": "Keon Johnson",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "33",
+                            "name": "Nic Claxton",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 19
+                        },
+                        {
+                            "shirtNumber": "21",
+                            "name": "Noah Clowney",
+                            "position": "PF",
+                            "height": "6-10",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "1, 8",
+                            "name": "Ziaire Williams",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Cameron Johnson",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Tyrese Martin",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Ben Simmons",
+                            "position": "PG",
+                            "height": "6-10",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Day'Ron Sharpe",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Cam Thomas",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Reece Beekman",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "Tosan Evbuomwan",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Trendon Watford",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "D'Angelo Russell",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "Toronto Raptors",
+                    "coach": {
+                        "name": "Darko Rajakovic"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "19",
+                            "name": "Jakob Poeltl",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 20
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Ochai Agbaji",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 21
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Jamal Shead",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Gradey Dick",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "Chris Boucher",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "45",
+                            "name": "Davion Mitchell",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "RJ Barrett",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Scottie Barnes",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Jonathan Mogbo",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "77",
+                            "name": "Jamison Battle",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Ja'Kobe Walter",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "41",
+                            "name": "Kelly Olynyk",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Bruce Brown",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Garrett Temple",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Charlotte Hornets",
+                    "coach": {
+                        "name": "Charles Lee"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "10",
+                            "name": "Josh Green",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 21
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Seth Curry",
+                            "position": "SG",
+                            "height": "6-1",
+                            "points": 28
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Moussa Diabaté",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 19
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Cody Martin",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Vasilije Micić",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "31",
+                            "name": "Tidjane Salaün",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Miles Bridges",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "LaMelo Ball",
+                            "position": "PG",
+                            "height": "6-7",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Nick Smith Jr.",
+                            "position": "SG",
+                            "height": "6-2",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Brandon Miller",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Mark Williams",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "67",
+                            "name": "Taj Gibson",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "KJ Simpson",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "21",
+                            "name": "Isaiah Wong",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Washington Wizards",
+                    "coach": {
+                        "name": "Brian Keefe"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "17",
+                            "name": "Jonas Valančiūnas",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Carlton Carrington",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 20
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Bilal Coulibaly",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Corey Kispert",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "18",
+                            "name": "Kyshawn George",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Jordan Poole",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Alex Sarr",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "16",
+                            "name": "Anthony Gill",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Johnny Davis",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "33",
+                            "name": "Kyle Kuzma",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Jared Butler",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Justin Champagnie",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Patrick Baldwin Jr.",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Malcolm Brogdon",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oeste",
+            "teams": [
+                {
+                    "name": "Oklahoma City Thunder",
+                    "coach": {
+                        "name": "Mark Daigneault"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "21",
+                            "name": "Aaron Wiggins",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 32
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Shai Gilgeous-Alexander",
+                            "position": "PG",
+                            "height": "6-6",
+                            "points": 21
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Luguentz Dort",
+                            "position": "SF",
+                            "height": "6-4",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Cason Wallace",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Jalen Williams",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Isaiah Joe",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "34",
+                            "name": "Kenrich Williams",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "Ajay Mitchell",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Dillon Jones",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Isaiah Hartenstein",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Alex Caruso",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Ousmane Dieng",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "6",
+                            "name": "Jaylin Williams",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Adam Flagler",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Memphis Grizzlies",
+                    "coach": {
+                        "name": "Taylor Jenkins"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "0",
+                            "name": "Jaylen Wells",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Scotty Pippen Jr.",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 23
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Jaren Jackson Jr.",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 20
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Brandon Clarke",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Jake LaRavia",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Jay Huff",
+                            "position": "C",
+                            "height": "7-1",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Santi Aldama",
+                            "position": "PF",
+                            "height": "6-11",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Desmond Bane",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Luke Kennard",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Zach Edey",
+                            "position": "C",
+                            "height": "7-4",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "Ja Morant",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "46",
+                            "name": "John Konchar",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "36",
+                            "name": "Marcus Smart",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Yuki Kawamura",
+                            "position": "PG",
+                            "height": "5-8",
+                            "points": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Houston Rockets",
+                    "coach": {
+                        "name": "Ime Udoka"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "4",
+                            "name": "Jalen Green",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "28",
+                            "name": "Alperen Şengün",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 21
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Amen Thompson",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Dillon Brooks",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 19
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Fred VanVleet",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Aaron Holiday",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "Steven Adams",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Reed Sheppard",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Jabari Smith Jr.",
+                            "position": "PF",
+                            "height": "6-11",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Tari Eason",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Cam Whitmore",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Jae'Sean Tate",
+                            "position": "SF",
+                            "height": "6-4",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Jock Landale",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "32",
+                            "name": "Jeff Green",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Denver Nuggets",
+                    "coach": {
+                        "name": "Michael Malone"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "1",
+                            "name": "Michael Porter Jr.",
+                            "position": "SF",
+                            "height": "6-10",
+                            "points": 29
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Julian Strawther",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 20
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Christian Braun",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Russell Westbrook",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Peyton Watson",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Nikola Jokić",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "27",
+                            "name": "Jamal Murray",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "6",
+                            "name": "DeAndre Jordan",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Hunter Tyson",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Zeke Nnaji",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "32",
+                            "name": "Aaron Gordon",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Jalen Pickett",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Trey Alexander",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Dario Šarić",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Los Angeles Lakers",
+                    "coach": {
+                        "name": "JJ Redick"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "4",
+                            "name": "Dalton Knecht",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "LeBron James",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Austin Reaves",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 25
+                        },
+                        {
+                            "shirtNumber": "28",
+                            "name": "Rui Hachimura",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Gabe Vincent",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Cam Reddish",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Jaxson Hayes",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Christian Koloko",
+                            "position": "C",
+                            "height": "7-1",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Bronny James",
+                            "position": "SG",
+                            "height": "6-2",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Dorian Finney-Smith",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Shake Milton",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "94",
+                            "name": "Armel Traoré",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Jarred Vanderbilt",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Trey Jemison",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Los Angeles Clippers",
+                    "coach": {
+                        "name": "Tyronn Lue"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "7",
+                            "name": "Amir Coffey",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 21
+                        },
+                        {
+                            "shirtNumber": "40",
+                            "name": "Ivica Zubac",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Derrick Jones Jr.",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "33",
+                            "name": "Nicolas Batum",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "James Harden",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "77",
+                            "name": "Kevin Porter Jr.",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Kris Dunn",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Norman Powell",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Terance Mann",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Jordan Miller",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Kai Jones",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Bones Hyland",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "21",
+                            "name": "Kobe Brown",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Kawhi Leonard",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Minnesota Timberwolves",
+                    "coach": {
+                        "name": "Chris Finch"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "3",
+                            "name": "Jaden McDaniels",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 26
+                        },
+                        {
+                            "shirtNumber": "27",
+                            "name": "Rudy Gobert",
+                            "position": "C",
+                            "height": "7-1",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Nickeil Alexander-Walker",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Anthony Edwards",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Naz Reid",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Julius Randle",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Mike Conley",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Donte DiVincenzo",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Josh Minott",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Rob Dillingham",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Luka Garza",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Joe Ingles",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Terrence Shannon Jr.",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 0
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Jaylen Clark",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Sacramento Kings",
+                    "coach": {
+                        "name": "Mike Brown"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "23",
+                            "name": "Keon Ellis",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 25
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Domantas Sabonis",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 20
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Keegan Murray",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 21
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "DeMar DeRozan",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Malik Monk",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "41",
+                            "name": "Trey Lyles",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "Alex Len",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Doug McDermott",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Isaac Jones",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 2
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Colby Jones",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Devin Carter",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "99",
+                            "name": "Jae Crowder",
+                            "position": "PF",
+                            "height": "6-6",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Mason Jones",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 1
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Isaiah Crawford",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Phoenix Suns",
+                    "coach": {
+                        "name": "Mike Budenholzer"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "21",
+                            "name": "Tyus Jones",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 26
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Mason Plumlee",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 26
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Devin Booker",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Ryan Dunn",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Royce O'Neale",
+                            "position": "SF",
+                            "height": "6-4",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Grayson Allen",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "35",
+                            "name": "Kevin Durant",
+                            "position": "PF",
+                            "height": "6-11",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Oso Ighodaro",
+                            "position": "PF",
+                            "height": "6-10",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Monte Morris",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Bradley Beal",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Jusuf Nurkić",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Bol Bol",
+                            "position": "PF",
+                            "height": "7-3",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Damion Lee",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Nick Richards",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Golden State Warriors",
+                    "coach": {
+                        "name": "Steve Kerr"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "7",
+                            "name": "Buddy Hield",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 22
+                        },
+                        {
+                            "shirtNumber": "32",
+                            "name": "Trayce Jackson-Davis",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Andrew Wiggins",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Kevon Looney",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Moses Moody",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Stephen Curry",
+                            "position": "PG",
+                            "height": "6-2",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "43",
+                            "name": "Lindy Waters III",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Gary Payton II",
+                            "position": "SG",
+                            "height": "6-2",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Brandin Podziemski",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Kyle Anderson",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Draymond Green",
+                            "position": "PF",
+                            "height": "6-6",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Jonathan Kuminga",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Gui Santos",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "71",
+                            "name": "Dennis Schröder",
+                            "position": "SG",
+                            "height": "6-1",
+                            "points": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Dallas Mavericks",
+                    "coach": {
+                        "name": "Jason Kidd"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "26",
+                            "name": "Spencer Dinwiddie",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "21",
+                            "name": "Daniel Gafford",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 28
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Quentin Grimes",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "31",
+                            "name": "Klay Thompson",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 15
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "P.J. Washington",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 13
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Kyrie Irving",
+                            "position": "SG",
+                            "height": "6-2",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Olivier-Maxence Prosper",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Jaden Hardy",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Naji Marshall",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "Dwight Powell",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Dereck Lively II",
+                            "position": "C",
+                            "height": "7-1",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "Kessler Edwards",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Brandon Williams",
+                            "position": "PG",
+                            "height": "6-1",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "50",
+                            "name": "Kylor Kelley",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "San Antonio Spurs",
+                    "coach": {
+                        "name": "Gregg Popovich"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "40",
+                            "name": "Harrison Barnes",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 24
+                        },
+                        {
+                            "shirtNumber": "30",
+                            "name": "Julian Champagnie",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Chris Paul",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Stephon Castle",
+                            "position": "PG",
+                            "height": "6-6",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "0",
+                            "name": "Keldon Johnson",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 11
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Victor Wembanyama",
+                            "position": "C",
+                            "height": "7-3",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Devin Vassell",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "28",
+                            "name": "Charles Bassey",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "54",
+                            "name": "Sandro Mamukelashvili",
+                            "position": "PF",
+                            "height": "6-11",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Blake Wesley",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Malaki Branham",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Jeremy Sochan",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "7",
+                            "name": "David Duke Jr.",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "55",
+                            "name": "Harrison Ingram",
+                            "position": "SF",
+                            "height": "6-5",
+                            "points": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Portland Trail Blazers",
+                    "coach": {
+                        "name": "Chauncey Billups"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "33",
+                            "name": "Toumani Camara",
+                            "position": "PF",
+                            "height": "6-8",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Deni Avdija",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "1",
+                            "name": "Anfernee Simons",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Scoot Henderson",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "17",
+                            "name": "Shaedon Sharpe",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Kris Murray",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 14
+                        },
+                        {
+                            "shirtNumber": "9",
+                            "name": "Jerami Grant",
+                            "position": "PF",
+                            "height": "6-7",
+                            "points": 12
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Dalano Banton",
+                            "position": "PG",
+                            "height": "6-9",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Deandre Ayton",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Donovan Clingan",
+                            "position": "C",
+                            "height": "7-2",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "34",
+                            "name": "Jabari Walker",
+                            "position": "SF",
+                            "height": "6-9",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "21",
+                            "name": "Rayan Rupert",
+                            "position": "SG",
+                            "height": "6-6",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "26",
+                            "name": "Duop Reath",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "35",
+                            "name": "Robert Williams",
+                            "position": "C",
+                            "height": "6-9",
+                            "points": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "New Orleans Pelicans",
+                    "coach": {
+                        "name": "Willie Green"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "21",
+                            "name": "Yves Missi",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 22
+                        },
+                        {
+                            "shirtNumber": "4",
+                            "name": "Javonte Green",
+                            "position": "SG",
+                            "height": "6-4",
+                            "points": 22
+                        },
+                        {
+                            "shirtNumber": "11",
+                            "name": "Brandon Boston Jr.",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 22
+                        },
+                        {
+                            "shirtNumber": "50",
+                            "name": "Jeremiah Robinson-Earl",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 17
+                        },
+                        {
+                            "shirtNumber": "10",
+                            "name": "Daniel Theis",
+                            "position": "C",
+                            "height": "6-8",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "CJ McCollum",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 22
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "Trey Murphy III",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Jordan Hawkins",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Dejounte Murray",
+                            "position": "PG",
+                            "height": "6-5",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "15",
+                            "name": "Jose Alvarado",
+                            "position": "PG",
+                            "height": "6-0",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "2",
+                            "name": "Herbert Jones",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "12",
+                            "name": "Antonio Reeves",
+                            "position": "SG",
+                            "height": "6-5",
+                            "points": 8
+                        },
+                        {
+                            "shirtNumber": "8",
+                            "name": "Jamal Cain",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "14",
+                            "name": "Brandon Ingram",
+                            "position": "SF",
+                            "height": "6-8",
+                            "points": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Utah Jazz",
+                    "coach": {
+                        "name": "Will Hardy"
+                    },
+                    "players": [
+                        {
+                            "shirtNumber": "2",
+                            "name": "Collin Sexton",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 19
+                        },
+                        {
+                            "shirtNumber": "13",
+                            "name": "Isaiah Collier",
+                            "position": "PG",
+                            "height": "6-3",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "3",
+                            "name": "Keyonte George",
+                            "position": "PG",
+                            "height": "6-4",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "24",
+                            "name": "Walker Kessler",
+                            "position": "C",
+                            "height": "7-0",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "28",
+                            "name": "Brice Sensabaugh",
+                            "position": "SF",
+                            "height": "6-6",
+                            "points": 18
+                        },
+                        {
+                            "shirtNumber": "22",
+                            "name": "Kyle Filipowski",
+                            "position": "C",
+                            "height": "6-11",
+                            "points": 16
+                        },
+                        {
+                            "shirtNumber": "23",
+                            "name": "Lauri Markkanen",
+                            "position": "PF",
+                            "height": "7-0",
+                            "points": 4
+                        },
+                        {
+                            "shirtNumber": "33",
+                            "name": "Johnny Juzang",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 5
+                        },
+                        {
+                            "shirtNumber": "20",
+                            "name": "John Collins",
+                            "position": "PF",
+                            "height": "6-9",
+                            "points": 3
+                        },
+                        {
+                            "shirtNumber": "00",
+                            "name": "Jordan Clarkson",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 10
+                        },
+                        {
+                            "shirtNumber": "5",
+                            "name": "Cody Williams",
+                            "position": "SG",
+                            "height": "6-7",
+                            "points": 6
+                        },
+                        {
+                            "shirtNumber": "25",
+                            "name": "Micah Potter",
+                            "position": "C",
+                            "height": "6-10",
+                            "points": 9
+                        },
+                        {
+                            "shirtNumber": "19",
+                            "name": "Svi Mykhailiuk",
+                            "position": "SF",
+                            "height": "6-7",
+                            "points": 7
+                        },
+                        {
+                            "shirtNumber": "16",
+                            "name": "Elijah Harkless",
+                            "position": "SG",
+                            "height": "6-3",
+                            "points": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "conferenceOptions": [
+        "Oeste",
+        "Leste"
+    ]
+}
